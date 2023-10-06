@@ -30,3 +30,7 @@ In this section of RetroAlien Go, we offer a glimpse into the captivating gamepl
 Join us as we invite you to explore the enchanting universe of RetroAlien Go. Our project is a tribute to the golden age of gaming, and we're excited to share it with you. Get ready to embark on a thrilling journey through space, collecting relics, dodging hazards, and experiencing the wonder of retro gaming.
 
 Thank you for joining us on this cosmic adventure. Enjoy playing RetroAlien Go!
+
+<img width="926" alt="Screenshot 2023-10-06 222300" src="https://github.com/ArunMandava3030/RetroAlien_Go/assets/94468094/b0bf4e36-e091-48f0-ac13-5398dc7a3fc7">
+<img width="914" alt="Screenshot 2023-10-06 222451" src="https://github.com/ArunMandava3030/RetroAlien_Go/assets/94468094/d856bc99-1ba7-4e74-9978-7ccb5a255e38">
+
